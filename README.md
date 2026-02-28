@@ -175,5 +175,5 @@ For permissions or inquiries, contact: **saktiswarupmishra@gmail.com**
 ---
 
 <p align="center">
-  Built with ❤️ by <strong>Sakti Swarup Mishra</strong> using Vue.js 3 & Tailwind CSS
+  Built with ❤️ by <strong>Sakti Swarup Mishra</strong>
 </p>
