@@ -175,5 +175,5 @@ For permissions or inquiries, contact: **saktiswarupmishra@gmail.com**
 ---
 
 <p align="center">
-  Built with ❤️ by <strong>Sakti Swarup Mishra</strong>
+  Built with ❤️ by <strong>Sakti Swarup Mishra...........</strong>
 </p>
