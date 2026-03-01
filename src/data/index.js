@@ -3,11 +3,11 @@ export const personalInfo = {
     title: 'Full Stack Developer',
     subtitle: 'AI & Cybersecurity Enthusiast',
     email: 'saktiswarupmishra@gmail.com',
-    phone: '+91-XXXXXXXXXX',
+    phone: '+91-9124457119',
     location: 'Bhubaneswar, Odisha, India',
     linkedin: 'https://www.linkedin.com/in/sakti-swarup-mishra-2aaa58263',
     github: 'https://github.com/saktiswarupmishra',
-    resumeUrl: '#',
+    resumeUrl: '/resume.pdf',
 }
 
 export const typingTexts = [

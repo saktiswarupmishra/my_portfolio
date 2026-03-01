@@ -68,6 +68,7 @@
         <a
           :href="personalInfo.resumeUrl"
           target="_blank"
+          download="Sakti_Swarup_Mishra_Resume.pdf"
           class="magnetic-btn px-8 py-3.5 border border-primary-400/30 text-primary-300 font-semibold rounded-xl transition-all duration-300 hover:bg-primary-500/10 hover:border-primary-400/60 hover:scale-105"
           @mousemove="magneticMove"
           @mouseleave="magneticReset"
