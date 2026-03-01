@@ -105,6 +105,7 @@ npm run preview   # Preview the production build locally
 1. Connect your GitHub repository
 2. **Build command:** `npm run build`
 3. **Publish directory:** `dist`
+4. https://saktiswarup-portfolio.netlify.app/
 
 ### Vercel
 
